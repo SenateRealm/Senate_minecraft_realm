@@ -1,0 +1,38 @@
+{
+    "music.menu": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "assets/minecraft/sounds/music/menu/menu1.ogg",
+                "stream": true
+            },
+            {
+                "name": "assets/minecraft/sounds/music/menu/menu2.ogg",
+                "stream": true
+            },
+            {
+                "name": "assets/minecraft/sounds/music/menu/menu3.ogg",
+                "stream": true
+            },
+            {
+                "name": "assets/minecraft/sounds/music/menu/menu4.ogg",
+                "stream": true
+            }
+        ]
+    },
+    "music.game": {
+        "category": "music",
+        "sounds": [
+            {
+                "name": "assets/minecraft/sounds/music/game/hal2.ogg",
+                "stream": true
+            },
+            {
+                "name": "assets/minecraft/sounds/music/hal1.ogg",
+                "stream": true
+            }
+        ]
+        
+        
+    }
+}
